@@ -1,9 +1,9 @@
 # 🪂 Šimon Libiger
+
 🚧 Work in progress
-**`Digital Craftmaker(Developer)`**
-I'm software developer how just started 
-Right now i'm exploring the relm of Java and its frameworks and libraries. 
-But in the future i would love to try: JS, React, Node.js, Swift and Python.
+
+
+#
 
 ### 🧰 Languages and Tools:
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>
@@ -16,11 +16,15 @@ But in the future i would love to try: JS, React, Node.js, Swift and Python.
 <img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<br />
 
-
+#
 
 ### 🌱 Know a little bit, but love to learn more in the future:
-Python, PHP, PostgreSQL, JavaScript, React, Node.js
+Jenkins, Python, PHP, PostgreSQL, JavaScript, React, Node.js
+<br />
+
+#
 
 <details>
   <summary><h3>👨🏻‍💻 My journey 🌍 </h3></summary>
@@ -31,6 +35,12 @@ Python, PHP, PostgreSQL, JavaScript, React, Node.js
 
 
 <!--
+**`Digital Craftmaker(Developer)`**
+
+I'm software developer how just started 
+
+Right now i'm exploring the relm of Java and its frameworks and libraries. 
+But in the future i would love to try: JS, React, Node.js, Swift and Python.
 
 komunikativní | organizovaný | analytický | týmový | Pečlivost | Důslednost | Time Management | Problem solving
 
