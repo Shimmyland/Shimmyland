@@ -35,6 +35,13 @@ Jenkins, Python, PHP, PostgreSQL, JavaScript, React, Node.js, Swift
 
 
 <!--
+
+https://devicon.dev
+https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/README.md
+https://dev.to/github/10-standout-github-profile-readmes-h2o
+https://github.com/rudrabarad/Gifs
+https://www.youtube.com/watch?v=G-EGDH50hGE
+
 **`Digital Craftmaker(Developer)`**
 
 I'm software developer how just started 
