@@ -9,11 +9,6 @@ I'm software developer how just started
 Right now i'm exploring the relm of Java and its frameworks and libraries. 
 But in the future i would love to try: JS, React, Node.js, Swift and Python.
 
-<!--
-komunikativní | organizovaný | analytický | týmový | Pečlivost | Důslednost | Time Management | Problem solving
-–-!>
-
-
 
 ### 🧰 Languages and Tools:
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>
@@ -51,6 +46,8 @@ komunikativní | organizovaný | analytický | týmový | Pečlivost | Důsledno
 
 
 <!--
+
+komunikativní | organizovaný | analytický | týmový | Pečlivost | Důslednost | Time Management | Problem solving
 
 ### Stats:
 ## Find me around the web 🌍:
