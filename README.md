@@ -11,7 +11,7 @@ But in the future i would love to try: JS, React, Node.js, Swift and Python.
 
 <!--
 komunikativní | organizovaný | analytický | týmový | Pečlivost | Důslednost | Time Management | Problem solving
-–->
+–-!>
 
 
 
