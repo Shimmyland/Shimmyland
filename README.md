@@ -28,11 +28,13 @@ But in the future i would love to try: JS, React, Node.js, Swift and Python.
 
 
 ### 🧰 Languages and Tools:
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Java Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Hibernate" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg)" style="padding-right:10px;"/>
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Java Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Hibernate" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" style="padding-right:10px;"/>
 
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" />
+          
 
 https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg
           
