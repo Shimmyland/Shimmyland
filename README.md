@@ -21,7 +21,7 @@
 #
 
 ### 🌱 Know a little bit, but love to learn more in the future:
-Jenkins, Python, PostgreSQL, JavaScript, React, Next.js, Node.js, Express.js, Swift
+Jenkins, PostgreSQL, MongoDB, JavaScript, React, Next.js, Node.js, Express.js, Swift, Python
 <br />
 
 #
