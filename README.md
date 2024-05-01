@@ -21,7 +21,7 @@
 #
 
 ### 🌱 Know a little bit, but love to learn more in the future:
-Jenkins, Python, PostgreSQL, React, JavaScript, Node.js, Next.js, Swift, PHP
+Jenkins, Python, PostgreSQL, JavaScript, React, Next.js, Node.js, Express.js, Swift
 <br />
 
 #
@@ -44,10 +44,10 @@ https://www.youtube.com/watch?v=G-EGDH50hGE
 
 **`Digital Craftmaker(Developer)`**
 
-I'm software developer how just started 
+I'm software developer who just started 
 
 Right now i'm exploring the relm of Java and its frameworks and libraries. 
-But in the future i would love to try: JS, React, Node.js, Swift and Python.
+But in the future i would love to learn more about: JS, React, Node.js, Swift and Python.
 
 komunikativní | organizovaný | analytický | týmový | Pečlivost | Důslednost | Time Management | Problem solving
 
