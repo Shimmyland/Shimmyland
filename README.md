@@ -51,6 +51,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/Shimmyland/count.svg)
 
 
+![Snake animation](https://github.com/Shimmyland/Shimmyland/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 
 https://devicon.dev
