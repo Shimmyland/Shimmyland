@@ -3,9 +3,12 @@
 🚧 Work in progress
 
 
+
+![Visitor Count](https://profile-counter.glitch.me/Shimmyland/count.svg)
+
 #
 
-### 🧰 Languages and Tools:
+#### 🧰 Languages and Tools:
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Java Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Hibernate" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" style="padding-right:10px;"/>
@@ -20,7 +23,7 @@
 
 #
 
-### 🚀 In process of learning:
+#### 🚀 In process of learning:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
@@ -32,7 +35,7 @@
 
 #
 
-### 🌱 Know a little bit, but love to learn more in the future:
+#### 🌱 Know a little bit, but love to learn more in the future:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right:10px;" />
@@ -48,10 +51,9 @@
               🚧 Work in progress
 </details>
 
-![Visitor Count](https://profile-counter.glitch.me/Shimmyland/count.svg)
 
 
-![Snake animation](https://github.com/Shimmyland/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Shimmyland/Shimmyland/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
