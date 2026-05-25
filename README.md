@@ -9,7 +9,7 @@ I enjoy building APIs, backend systems and learning how scalable applications wo
 #
 
 ### 🛠️ Projects 
-- [State Budget Explorer](https://statnirozpocet.net): I haven't found user friendly website that would describe and show data how Czech State Budget works. So I started building my own. 
+- [State Budget Explorer](https://statnirozpocet.net): I’m building a user-friendly platform that explains and visualizes how the Czech state budget works.
 
 <br/>
 
